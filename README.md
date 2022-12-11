@@ -2,7 +2,7 @@
 
 My name is Rumen Raenkov.
 
-I am a Lawyer in education and have over 15th years of experience in state corporations in Bulgaria as a Legal Counsel. 
+I am a Lawyer in education and have over 15 years of experience in state corporations in Bulgaria as a Legal Counsel. 
 
 I am interested in programming to show creativity and make my own product.
 
